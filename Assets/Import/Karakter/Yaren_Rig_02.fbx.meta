@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: bbd838cc6564ab4488184e309cd5a62d
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tFound
+      duplicate transform 'Ece_Rig_LeftFingers_09' for human bone 'Left Index Proximal'
+      and 'LeftHand'\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Ece_RigSkin_27
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_12
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_19
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_14
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_21
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_17
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_24
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_28
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_29
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_30
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_31
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_01
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_08
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_02
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_09
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_04
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_10
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_09
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_11
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_18
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_25
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_Left_Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_RigSkin_Right_Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_Gozluk
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_09
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_10
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_06
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_05
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_08
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_15
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_13
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_14
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_02
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_04
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_LeftFingers_11
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_13
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_10
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_14
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_06
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_05
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_04
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_02
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_15
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_12
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_03
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_11
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_01
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_09
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_08
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ece_Rig_RightFingers_07
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Yaren_Rig_02(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_125
+      parentName: Yaren_Rig_02(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_27
+      parentName: Ece_Rig_125
+      position: {x: 6.550357e-10, y: -0.014985472, z: 0.2799524}
+      rotation: {x: 0.7071069, y: 0.000000030908613, z: -0.70710665, w: 0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_12
+      parentName: Ece_RigSkin_27
+      position: {x: -0.05849592, y: -0.014985429, z: 0.061672382}
+      rotation: {x: -9.568786e-15, y: -0.00000007159551, z: 0.99999875, w: -0.0015744718}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_13
+      parentName: Ece_RigSkin_12
+      position: {x: -0.074131794, y: 2.2351741e-10, z: -0.000000009536743}
+      rotation: {x: 0.00000007159542, y: -1.1274902e-10, z: -0.000000001513399, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_14
+      parentName: Ece_RigSkin_13
+      position: {x: -0.07413177, y: 0, z: 0}
+      rotation: {x: 1.6334963e-10, y: 0.000000029802235, z: -0.0033925, w: 0.9999943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_15
+      parentName: Ece_RigSkin_14
+      position: {x: -0.064301185, y: 3.7252902e-11, z: 0}
+      rotation: {x: 0.00000016682264, y: 3.0307498e-10, z: 6.984918e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_16
+      parentName: Ece_RigSkin_15
+      position: {x: -0.06430112, y: 1.11758706e-10, z: -0.0000000047683715}
+      rotation: {x: 0.9999984, y: 0.0018179403, z: 0.000000029144735, w: -0.00000019476046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_17
+      parentName: Ece_RigSkin_16
+      position: {x: 0.000012168884, y: 0.00000061970366, z: 0.000000042915342}
+      rotation: {x: -0.0000006515105, y: 0.000000035780797, z: -0.5115113, w: 0.8592766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_18
+      parentName: Ece_RigSkin_17
+      position: {x: -0.0994227, y: -0.004939942, z: -0.000000019073486}
+      rotation: {x: 0.96929353, y: -0.24590676, z: -0.0000024654155, w: -0.0000008263436}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_06
+      parentName: Ece_RigSkin_18
+      position: {x: -0.049999923, y: -0.000000021457671, z: 0.00000012874602}
+      rotation: {x: -0.0000000447034, y: -0.000000104307965, z: -0.000000014901111,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_19
+      parentName: Ece_RigSkin_27
+      position: {x: -0.05849592, y: -0.014985429, z: -0.061672382}
+      rotation: {x: -9.568786e-15, y: -0.00000007159551, z: 0.99999875, w: -0.0015744718}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_20
+      parentName: Ece_RigSkin_19
+      position: {x: -0.07413176, y: 7.4505804e-11, z: -0.0000000047683715}
+      rotation: {x: 1.7480553e-10, y: -2.8421734e-13, z: -0.000000001513399, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_21
+      parentName: Ece_RigSkin_20
+      position: {x: -0.07413177, y: 0, z: 0}
+      rotation: {x: 1.04690485e-10, y: 0.00000003004462, z: -0.0033924358, w: 0.9999943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_22
+      parentName: Ece_RigSkin_21
+      position: {x: -0.064301185, y: 7.4505804e-11, z: 0}
+      rotation: {x: 0.00000021452409, y: 3.8973275e-10, z: 4.6566115e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_23
+      parentName: Ece_RigSkin_22
+      position: {x: -0.06430105, y: 1.4901161e-10, z: -0.000000009536743}
+      rotation: {x: 0.0000001896341, y: -0.000000029197222, z: 0.001817955, w: 0.9999984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_24
+      parentName: Ece_RigSkin_23
+      position: {x: 0.000012168884, y: -0.00000061266485, z: -0.0000000047683715}
+      rotation: {x: 0.8592767, y: 0.511511, z: -0.0000004455263, w: 0.0000009080039}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_25
+      parentName: Ece_RigSkin_24
+      position: {x: -0.09942272, y: -0.00493989, z: -0.0000000047683715}
+      rotation: {x: 0.9692935, y: -0.24590696, z: -0.000005017665, w: -0.0000014738425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_26
+      parentName: Ece_RigSkin_25
+      position: {x: -0.04999979, y: -0.000000007152557, z: 0.00000027179718}
+      rotation: {x: -0.00000004470344, y: -0.00000010430853, z: -0.000000014901052,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_28
+      parentName: Ece_RigSkin_27
+      position: {x: -0.14999998, y: 0, z: 0}
+      rotation: {x: -1.491939e-14, y: -0.000000044712106, z: 0.019651106, w: 0.9998069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_29
+      parentName: Ece_RigSkin_28
+      position: {x: -0.09292083, y: 0, z: 0.000000008467377}
+      rotation: {x: 0.0000000054115974, y: 0.0000000147006425, z: 0.038916532, w: 0.9992425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_30
+      parentName: Ece_RigSkin_29
+      position: {x: -0.09231685, y: -0.0000000047683715, z: 0.0000000055428515}
+      rotation: {x: -0.0000000033816334, y: 0.000000029874094, z: -0.058545645, w: 0.99828476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_31
+      parentName: Ece_RigSkin_30
+      position: {x: -0.058966063, y: -5.9604643e-10, z: -1.8189894e-14}
+      rotation: {x: -0.7071072, y: 0.00000067698437, z: 0.0000010931843, w: 0.7071065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_Gozluk
+      parentName: Ece_RigSkin_31
+      position: {x: -0.2296939, y: 0.000000038147117, z: 0.19568574}
+      rotation: {x: -0.5000005, y: -0.49999967, z: 0.49999905, w: 0.50000095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Model_Gozluk
+      parentName: Ece_Rig_Gozluk
+      position: {x: 0.00000032424927, y: 0.19622895, z: -0.92898303}
+      rotation: {x: -2.735311e-30, y: -7.1054274e-15, z: -3.849608e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Left_Eye
+      parentName: Ece_RigSkin_31
+      position: {x: -0.2192141, y: -0.059422262, z: 0.07953612}
+      rotation: {x: 0.70710707, y: -0.00000089632186, z: -0.7071066, w: -0.0000008963225}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Right_Eye
+      parentName: Ece_RigSkin_31
+      position: {x: -0.21921386, y: 0.059420448, z: 0.0795362}
+      rotation: {x: 0.7071071, y: -0.0000009806154, z: -0.7071065, w: -0.0000009806163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_01
+      parentName: Ece_RigSkin_31
+      position: {x: -0.14040595, y: -0.09274941, z: -0.20777261}
+      rotation: {x: -0.1085981, y: 0.09640269, z: 0.94413143, w: 0.29585275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_02
+      parentName: Ece_RigSkin_Hair_01
+      position: {x: -0.1279692, y: 0.0000005340576, z: 0.0000000667572}
+      rotation: {x: 0.11925812, y: -0.03976735, z: -0.4302836, w: 0.8938971}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_03
+      parentName: Ece_RigSkin_Hair_02
+      position: {x: -0.13015503, y: 0.000000076293944, z: 0}
+      rotation: {x: -0.03436275, y: -0.0819616, z: -0.23629405, w: 0.9676087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_13
+      parentName: Ece_RigSkin_31
+      position: {x: -0.18884231, y: 0.1863939, z: -0.067676224}
+      rotation: {x: -0.057330973, y: 0.706973, z: 0.70477885, w: -0.013751077}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_14
+      parentName: Ece_RigSkin_Hair_13
+      position: {x: -0.07490936, y: -0.000000009536743, z: -0.000000019073486}
+      rotation: {x: -0.028644046, y: -0.22337374, z: 0.08630738, w: 0.97048175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_15
+      parentName: Ece_RigSkin_Hair_14
+      position: {x: -0.057766568, y: 0.000000114440915, z: -0.000000019073486}
+      rotation: {x: 0.19954792, y: 0.40363595, z: -0.19603632, w: 0.87110764}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_07
+      parentName: Ece_RigSkin_31
+      position: {x: -0.23773795, y: 0.1920198, z: 0.008383711}
+      rotation: {x: -0.08973015, y: 0.7060033, z: 0.70139056, w: 0.03948573}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_08
+      parentName: Ece_RigSkin_Hair_07
+      position: {x: -0.0690287, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.046019875, y: -0.05838099, z: 0.1593693, w: 0.98441625}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_09
+      parentName: Ece_RigSkin_Hair_08
+      position: {x: -0.05617912, y: -0.00000043869017, z: -0.000000019073486}
+      rotation: {x: 0.2299783, y: 0.17041975, z: -0.4019085, w: 0.86979115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_10
+      parentName: Ece_RigSkin_31
+      position: {x: -0.17732865, y: -0.18571968, z: -0.0632221}
+      rotation: {x: 0.045603115, y: 0.7178689, z: -0.6924803, w: -0.05527732}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_11
+      parentName: Ece_RigSkin_Hair_10
+      position: {x: -0.0635263, y: 0.000000028610229, z: 0}
+      rotation: {x: 0.10637731, y: 0.0580437, z: 0.004124712, w: 0.9926217}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_12
+      parentName: Ece_RigSkin_Hair_11
+      position: {x: -0.05183868, y: -0.00000012397766, z: -0.000000114440915}
+      rotation: {x: -0.329743, y: 0.24050438, z: -0.15763614, w: 0.8992097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_04
+      parentName: Ece_RigSkin_31
+      position: {x: -0.1404055, y: 0.0927537, z: -0.2077725}
+      rotation: {x: -0.10859878, y: -0.09640331, z: 0.94413203, w: -0.2958504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_05
+      parentName: Ece_RigSkin_Hair_04
+      position: {x: -0.12796913, y: -0.00000045776366, z: -0.000000009536743}
+      rotation: {x: -0.11925812, y: -0.039767373, z: 0.43028352, w: 0.8938972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_Hair_06
+      parentName: Ece_RigSkin_Hair_05
+      position: {x: -0.13015497, y: -0.000000076293944, z: 0}
+      rotation: {x: 0.034362737, y: -0.081961505, z: 0.23629418, w: 0.9676087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_32
+      parentName: Ece_RigSkin_29
+      position: {x: -0.09231685, y: -0.0000000047683715, z: 0.00000000603829}
+      rotation: {x: -0.041397944, y: -0.7058918, z: -0.04139769, w: 0.70589614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_07
+      parentName: Ece_RigSkin_32
+      position: {x: -0.08557409, y: 0.0000005557388, z: 0}
+      rotation: {x: -0.000000003958067, y: 0.000000012956901, z: -0.0000030919743,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_08
+      parentName: Ece_RigSkin_07
+      position: {x: -0.069193356, y: -3.72529e-10, z: 0}
+      rotation: {x: 4.6561868e-10, y: -0.000000007450581, z: -0.0000000018546072,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_09
+      parentName: Ece_RigSkin_08
+      position: {x: -0.06919339, y: -4.842877e-10, z: 0}
+      rotation: {x: -2.313517e-10, y: 0.0000005123509, z: 0.000000053452794, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_10
+      parentName: Ece_RigSkin_09
+      position: {x: -0.07555343, y: -6.705522e-10, z: 0}
+      rotation: {x: -1.5348375e-12, y: -0.0000005123511, z: -1.2702352e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_11
+      parentName: Ece_RigSkin_10
+      position: {x: -0.07555347, y: -6.705522e-10, z: 0}
+      rotation: {x: 4.6573856e-10, y: -0.00000006804726, z: 0.000000090326076, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_03
+      parentName: Ece_RigSkin_11
+      position: {x: -0.07457294, y: -0.014852343, z: 0}
+      rotation: {x: 0.9985915, y: 0.022474915, z: 0.043762848, w: -0.019871391}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_11
+      parentName: Ece_Rig_RightFingers_03
+      position: {x: -0.020000037, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.000000001918579, y: 3.294198e-14, z: -0.000017169988, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_01
+      parentName: Ece_Rig_RightFingers_11
+      position: {x: -0.019999962, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.000000004054762, y: 0.0000000074505304, z: 0.000012392382,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_09
+      parentName: Ece_RigSkin_11
+      position: {x: -0.061165426, y: -0.035105422, z: 0}
+      rotation: {x: 0.99850446, y: 0.022716846, z: 0.037869, w: -0.032229885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_08
+      parentName: Ece_Rig_RightFingers_09
+      position: {x: -0.020000057, y: -0.000000028610229, z: 0.000000076293944}
+      rotation: {x: 6.1299943e-10, y: -1.0521065e-14, z: -0.000017163255, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_07
+      parentName: Ece_Rig_RightFingers_08
+      position: {x: -0.020000057, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.0000000053234714, y: 0.0000000149010955, z: 0.000012406227,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_06
+      parentName: Ece_RigSkin_11
+      position: {x: -0.06654659, y: 0.029505406, z: 0}
+      rotation: {x: 0.994353, y: -0.07915765, z: 0.06970138, w: 0.0117455805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_05
+      parentName: Ece_Rig_RightFingers_06
+      position: {x: -0.01999998, y: 0, z: 0}
+      rotation: {x: -4.0972736e-10, y: 7.0316224e-15, z: -0.00001716171, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_04
+      parentName: Ece_Rig_RightFingers_05
+      position: {x: -0.020000018, y: 0, z: 0}
+      rotation: {x: 0.0000000019008435, y: 2.3532659e-14, z: 0.000012380114, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_13
+      parentName: Ece_RigSkin_11
+      position: {x: -0.032271307, y: 0.032709736, z: 0.00000015258789}
+      rotation: {x: 0.858582, y: -0.45680377, z: -0.05028128, w: 0.22724228}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_10
+      parentName: Ece_Rig_RightFingers_13
+      position: {x: -0.019999942, y: 0.000000038146972, z: -0.000000038146972}
+      rotation: {x: -0.000000014901158, y: 2.555732e-13, z: -0.000017151233, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_14
+      parentName: Ece_Rig_RightFingers_10
+      position: {x: -0.020000018, y: 0.000000076293944, z: 0}
+      rotation: {x: -0.000000029803246, y: 0.000000074505444, z: 0.000012397767, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_02
+      parentName: Ece_RigSkin_11
+      position: {x: -0.080273055, y: 0.006577041, z: 0.00000015258789}
+      rotation: {x: 0.99653625, y: -0.022869047, z: 0.07994881, w: 0.00086101185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_15
+      parentName: Ece_Rig_RightFingers_02
+      position: {x: -0.02, y: 0, z: -0.000000076293944}
+      rotation: {x: 1.4668443e-10, y: 0.000000014901155, z: -0.000017167098, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_RightFingers_12
+      parentName: Ece_Rig_RightFingers_15
+      position: {x: -0.019999923, y: 0.0000000023841857, z: 0}
+      rotation: {x: -2.0848034e-10, y: 0.000000007450578, z: 0.0000123978925, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_33
+      parentName: Ece_RigSkin_29
+      position: {x: -0.09231685, y: -0.0000000047683715, z: 0.00000000603829}
+      rotation: {x: 0.705894, y: -0.041397866, z: -0.7058938, w: -0.041397873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_01
+      parentName: Ece_RigSkin_33
+      position: {x: -0.08557, y: -0.00000003784895, z: 0}
+      rotation: {x: 1, y: 0.000000063454074, z: -0.000000014874332, w: 0.000000043711395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_02
+      parentName: Ece_RigSkin_01
+      position: {x: -0.069193356, y: -1.11758706e-10, z: 0}
+      rotation: {x: 7.1054274e-14, y: -1.776357e-15, z: -0.0000000024230549, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_03
+      parentName: Ece_RigSkin_02
+      position: {x: -0.06919337, y: -7.4505804e-11, z: 0}
+      rotation: {x: 4.66827e-10, y: 0.0000005049004, z: 0.000000055442804, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_04
+      parentName: Ece_RigSkin_03
+      position: {x: -0.075553454, y: -3.7252902e-11, z: 0}
+      rotation: {x: 0.000000007299098, y: -0.0000006110094, z: 0.11082156, w: 0.99384034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_RigSkin_05
+      parentName: Ece_RigSkin_04
+      position: {x: -0.07555347, y: -1.11758706e-10, z: 0}
+      rotation: {x: -1.8474111e-13, y: -1.6775283e-20, z: 0.00000009080427, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_02
+      parentName: Ece_RigSkin_05
+      position: {x: -0.074572906, y: -0.01485235, z: 0}
+      rotation: {x: 0.9934685, y: 0.093792826, z: -0.06349681, w: 0.013835251}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_04
+      parentName: Ece_Rig_LeftFingers_02
+      position: {x: -0.019999905, y: -0.000000009536743, z: 0.000000076293944}
+      rotation: {x: -0.00000090251024, y: -0.0000000074350965, z: -0.000017157574,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_11
+      parentName: Ece_Rig_LeftFingers_04
+      position: {x: -0.02, y: 0, z: 0}
+      rotation: {x: -0.0000009926049, y: -1.2297073e-11, z: 0.000012388689, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_07
+      parentName: Ece_RigSkin_05
+      position: {x: -0.06116539, y: -0.035105433, z: 0}
+      rotation: {x: 0.97121584, y: 0.19400172, z: -0.13553677, w: 0.027074087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_01
+      parentName: Ece_Rig_LeftFingers_07
+      position: {x: -0.020000037, y: 0.000000019073486, z: 0.000000076293944}
+      rotation: {x: -0.00000065609584, y: 1.1273711e-11, z: -0.000017183025, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_03
+      parentName: Ece_Rig_LeftFingers_01
+      position: {x: -0.019999962, y: 0.000000009536743, z: 0.00000015258789}
+      rotation: {x: -0.0000012949283, y: -1.6047965e-11, z: 0.000012392937, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_06
+      parentName: Ece_RigSkin_05
+      position: {x: -0.06654655, y: 0.02950539, z: 0}
+      rotation: {x: 0.9985375, y: -0.01356742, z: -0.049182482, w: -0.017887319}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_05
+      parentName: Ece_Rig_LeftFingers_06
+      position: {x: -0.01999998, y: 0, z: 0}
+      rotation: {x: -0.00000089132914, y: 1.5297395e-11, z: -0.000017162454, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_08
+      parentName: Ece_Rig_LeftFingers_05
+      position: {x: -0.019999962, y: 0.0000000047683715, z: 0.000000076293944}
+      rotation: {x: -0.00000065725794, y: -8.141128e-12, z: 0.000012386504, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_09
+      parentName: Ece_RigSkin_05
+      position: {x: -0.03227127, y: 0.032709733, z: 0}
+      rotation: {x: 0.93614227, y: -0.01054388, z: -0.021691848, w: -0.35079354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_10
+      parentName: Ece_Rig_LeftFingers_09
+      position: {x: -0.019999905, y: 0, z: 0}
+      rotation: {x: -0.0000005066398, y: -0.000000014892468, z: -0.000017158687, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_12
+      parentName: Ece_Rig_LeftFingers_10
+      position: {x: -0.020000076, y: -0.00000015258789, z: 0.000000076293944}
+      rotation: {x: -0.0000010728834, y: -0.000000014914486, z: 0.000012420118, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_15
+      parentName: Ece_RigSkin_05
+      position: {x: -0.08027302, y: 0.0065770387, z: 0}
+      rotation: {x: 0.99758947, y: 0.0037816023, z: -0.069204785, w: -0.0034423575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_13
+      parentName: Ece_Rig_LeftFingers_15
+      position: {x: -0.020000057, y: 0.0000000023841857, z: 0.000000076293944}
+      rotation: {x: -0.0000009049727, y: -0.000000007435044, z: -0.000017168699, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Rig_LeftFingers_14
+      parentName: Ece_Rig_LeftFingers_13
+      position: {x: -0.019999962, y: 0.0000000035762786, z: 0}
+      rotation: {x: -0.0000011605792, y: -0.000000014915553, z: 0.000012400576, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Model_Body
+      parentName: Yaren_Rig_02(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Model_Hair
+      parentName: Yaren_Rig_02(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ece_Model_Toka
+      parentName: Yaren_Rig_02(Clone)
+      position: {x: -0, y: -0.08219498, z: -0.0000000035928565}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.961713}
+    - name: Ece_Model_Kiyafet
+      parentName: Yaren_Rig_02(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f44607bd270d4f4eaa8869ed9b5b85c, type: 3}
+  m_Name: cokmemnunoldum
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 2ad68dc7101ee2548b4056a8545edc3c, type: 3}
+  phonemeData:
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.11868288
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 2
+    time: 0.2270455
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.2838069
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 6
+    time: 0.3096075
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 2
+    time: 0.35088852
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.38184926
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 2
+    time: 0.536653
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 6
+    time: 0.5676138
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.67081624
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 3
+    time: 0.6966169
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 1
+    time: 0.82562006
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  emotionData: []
+  gestureData: []
+  version: 1.52
+  length: 1.9379375
+  transcript: 
+  phonemePoseCurves: []
+  emotionPoseCurves: []
+  targetComponentID: 0
+  isPreprocessed: 0
+  indexBlendables: 
+  animCurves: []
+  bones: []
+  boneCurves: []
+  boneNeutralPositions: []
+  boneNeutralScales: []
+  boneNeutralRotations: []

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcd1d3bf-be7c-430c-adf8-f2f6f3c0f965" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2E727C9-98CA-473B-BE75-3F12C746239D/ca/b2c90ace/SettingsDictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2D1EB443-9232-48B1-8289-94AABE8AE823/e5/b236ea68/CultureInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gyroscope.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../AR Test2/Assets/Yaren/HeadLook.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KKSpeechRecognizer/Example/RecordingCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HeadLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpeechButtonBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2E727C9-98CA-473B-BE75-3F12C746239D/dc/74d26cef/Bot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2E727C9-98CA-473B-BE75-3F12C746239D/fd/3663ea25/User.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A5949084-5872-4118-9A97-4C7DF1839E1C/bc/3546ee60/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7BF49216-2EEA-448B-ADF2-7F5DACBD5BB7/18/8936635d/ScriptEngine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MotiveDavranis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04C5C85C-7E5E-4A4A-B66D-06C5A6DEE283/4b/fdc8ae7f/Path.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpeechAndText/Scripts/TextToSpeech.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/ChatBot.cs" />
+      <option value="$PROJECT_DIR$/Assets/AI/Program #/ChatBot.cs" />
+      <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2E727C9-98CA-473B-BE75-3F12C746239D/dc/74d26cef/Bot.cs" />
+      <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E2E727C9-98CA-473B-BE75-3F12C746239D/ca/b2c90ace/SettingsDictionary.cs" />
+      <option value="$PROJECT_DIR$/Assets/Program #/ChatBot.cs" />
+      <option value="$PROJECT_DIR$/Assets/Program #/Bot.cs" />
+      <option value="$PROJECT_DIR$/Assets/Program #/config/Settings.xml" />
+      <option value="$PROJECT_DIR$/Assets/Program #/aiml/bot.aiml" />
+      <option value="$PROJECT_DIR$/Assets/TestChat.cs" />
+      <option value="$PROJECT_DIR$/Assets/Chatbot/Program #/Utils/SettingsDictionary.cs" />
+      <option value="$PROJECT_DIR$/Assets/MustChat/Program #/config/Settings.xml" />
+      <option value="$PROJECT_DIR$/Assets/Resources/MustChat/Program #/aiml/bot.xml" />
+      <option value="$USER_HOME$/Desktop/AIML/Test.aiml" />
+      <option value="$PROJECT_DIR$/Assets/Resources/Chatbot/Program #/advancedaiml/emotions.xml" />
+      <option value="$PROJECT_DIR$/Assets/Resources/Chatbot/Program #/advancedaiml/yourperson.xml" />
+      <option value="$PROJECT_DIR$/Assets/Resources/Chatbot/Program #/advancedaiml/salutation.xml" />
+      <option value="$PROJECT_DIR$/Assets/Chatbot/Unity Implementation/Scripts/Chatbot/ChatbotCore.cs" />
+      <option value="$PROJECT_DIR$/Assets/Resources/MustChat/Program #/aiml/mustchat_test 1.xml" />
+      <option value="$PROJECT_DIR$/Assets/Resources/MustChat/Program #/aiml/yaren_test_chat.xml" />
+      <option value="$PROJECT_DIR$/Assets/Resources/MustChat/Program #/aiml/mustchat_test.xml" />
+      <option value="$PROJECT_DIR$/Assets/Resources/MustChat/Program #/config/Settings.xml" />
+      <option value="$PROJECT_DIR$/Assets/Chatbot/Program #/AIMLTagHandlers/input.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TestChat.cs" />
+      <option value="$PROJECT_DIR$/Assets/Chatbot/Unity Implementation/Scripts/Chatbot/User Interfaces/SimpleEmoticonChat.cs" />
+      <option value="$PROJECT_DIR$/Assets/Chatbot/Chatbot/Core.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HeadLook.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LookAtBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gyroscope.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AdvancedTestChat.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SpeechButtonBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/KKSpeechRecognizer/Example/RecordingCanvas.cs" />
+      <option value="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AdvancedTestChatWithNoButtonRequired.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MotiveConsoleExpression.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MotiveDavranis.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MotiveAgeHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Resources/MustChat/Program #/aiml/yaren_test.xml" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1vOKhxFoWV2IAXp4hLufkryf0Ff" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd1d3bf-be7c-430c-adf8-f2f6f3c0f965" name="Default Changelist" comment="" />
+      <created>1626427819642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626427819642</updated>
+      <workItem from="1626427824842" duration="2798000" />
+      <workItem from="1626430671709" duration="38000" />
+      <workItem from="1626430725842" duration="28000" />
+      <workItem from="1626430826565" duration="149000" />
+      <workItem from="1626430985908" duration="1337000" />
+      <workItem from="1626432463968" duration="16000" />
+      <workItem from="1626432691767" duration="14326000" />
+      <workItem from="1626450904003" duration="3017000" />
+      <workItem from="1626683418272" duration="2860000" />
+      <workItem from="1626687215148" duration="8895000" />
+      <workItem from="1627287127220" duration="14751000" />
+      <workItem from="1627372319634" duration="2420000" />
+      <workItem from="1627374871020" duration="2905000" />
+      <workItem from="1627379750741" duration="764000" />
+      <workItem from="1627384341983" duration="8594000" />
+      <workItem from="1627467316577" duration="19632000" />
+      <workItem from="1627554266817" duration="8922000" />
+      <workItem from="1627565620925" duration="3423000" />
+      <workItem from="1627582460066" duration="222000" />
+      <workItem from="1627894795750" duration="5749000" />
+      <workItem from="1627980514331" duration="1070000" />
+      <workItem from="1628074912496" duration="1000" />
+      <workItem from="1628671623194" duration="555000" />
+      <workItem from="1628690637375" duration="30000" />
+      <workItem from="1628696393044" duration="21000" />
+      <workItem from="1628763603613" duration="224000" />
+      <workItem from="1628764230544" duration="4000" />
+      <workItem from="1628764489604" duration="604000" />
+      <workItem from="1628767328800" duration="4203000" />
+      <workItem from="1628856181330" duration="5859000" />
+      <workItem from="1629101786465" duration="421000" />
+      <workItem from="1629102243489" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
